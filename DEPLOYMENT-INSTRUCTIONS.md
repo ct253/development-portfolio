@@ -8,10 +8,9 @@ git add .
 git commit -m '<<comment>>'
 git push origin main
 
-
 3.
 Changes automatically uploaded to Netlify:
-
+https://lovely-strudel-be0691.netlify.app/
 
 
 Walkthrough with instructions followed: 
